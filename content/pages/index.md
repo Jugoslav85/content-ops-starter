@@ -415,7 +415,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Wanderlust Chronicles
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: 'Inspiring journeys, unforgettable stories.'
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
