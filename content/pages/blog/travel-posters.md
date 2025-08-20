@@ -1,6 +1,6 @@
 ---
 title: Top 10 UK Websites to Buy Travel Posters
-slug: case-study-1
+slug: travel-posters
 date: '2025-08-20'
 excerpt: >-
   Whether you’re looking for classic vintage designs, unique modern
