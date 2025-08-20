@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://www.tourist-destinations.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right
