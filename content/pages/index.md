@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: 'Exploring the World, One Adventure at a Time'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Journey Beyond the Map: Discover Hidden Gems, Local Adventures, and
+      Life-Changing Experiences Around the World
     actions:
       - label: Get started
         altText: ''
