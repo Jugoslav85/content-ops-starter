@@ -11,11 +11,14 @@ topSections:
     subtitle: This is the subtitle
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/travel-posters.md
+      - content/pages/blog/planning-your-disneyland-trip.md
+      - content/pages/blog/rural-tourism-italy-rural-experiences.md
     showThumbnail: true
     showExcerpt: true
-    showDate: true
+    showDate: false
     showAuthor: true
-    variant: big-list
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
@@ -45,7 +48,7 @@ postFeed:
   subtitle: null
   showThumbnail: true
   showExcerpt: true
-  showDate: true
+  showDate: false
   showAuthor: true
   actions: []
   elementId: null
