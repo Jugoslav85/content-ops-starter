@@ -105,26 +105,6 @@ sections:
       Join Wanderlust Chronicles as we explore hidden gems, vibrant cultures,
       and breathtaking destinations. Discover travel tips, inspiring stories,
       and unforgettable adventures to fuel your next journey.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: Adventures Across the Globe
       color: text-primary
