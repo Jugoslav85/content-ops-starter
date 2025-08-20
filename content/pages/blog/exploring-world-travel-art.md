@@ -1,6 +1,6 @@
 ---
 title: Exploring the World Through Travel Art
-slug: top-ten-lessons-we-learned
+slug: exploring-world-travel-art
 date: '2025-08-19'
 excerpt: >-
   Travel art celebrates exploration and imagination. It reminds us of the beauty
