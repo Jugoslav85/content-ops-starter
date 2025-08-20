@@ -194,7 +194,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Maria Walters, The Sun'
         text: ''
         image:
           url: /images/person-placeholder-light.png
