@@ -10,9 +10,9 @@ topSections:
       type: TitleBlock
     subtitle: Wanderlust Travel Articles
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
       - content/pages/blog/travel-posters.md
       - content/pages/blog/planning-your-disneyland-trip.md
+      - content/pages/blog/top-ten-lessons-we-learned.md
       - content/pages/blog/rural-tourism-italy-rural-experiences.md
     showThumbnail: true
     showExcerpt: true
