@@ -41,7 +41,7 @@
         "links": [
             {
                 "label": "Trace Me Up",
-                "altText": "careers page",
+                "altText": "tracemeup",
                 "url": "/careers",
                 "icon": "arrowRight",
                 "iconPosition": "right",
