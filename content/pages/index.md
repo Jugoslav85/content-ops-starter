@@ -125,7 +125,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: Adventures Across the Globe
       color: text-primary
       styles:
         self:
