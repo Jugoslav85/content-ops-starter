@@ -7,7 +7,7 @@ sections:
       text: Wanderlust Chronicles
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Exploring the World, One Adventure at a Time'
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
