@@ -8,7 +8,7 @@ excerpt: >-
   the lens of creativity. Whether you collect prints, original paintings, or
   unique handmade pieces, travel art transforms walls into windows to the world.
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/Valparaiso Artwork.webp
   altText: Thumbnail
   type: ImageBlock
   styles:
