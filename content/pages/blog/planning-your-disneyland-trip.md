@@ -4,11 +4,12 @@ title: 'Magical Adventures: Planning Your Disneyland Trip'
 date: '2022-10-10'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Disneyland is a place where imagination comes to life. Whether it’s your first
+  visit or a return trip, the park offers something new at every turn, creating
+  memories that spark joy for years to come.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/disneyland-travel.webp
   altText: Thumbnail
   elementId: ''
   styles:
