@@ -9,7 +9,7 @@ excerpt: >-
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
   url: /images/Be real_02_Mockup 1.psd_3.jpg
-  altText: Case study 1
+  altText: Travel Posters
   styles:
     self:
       borderRadius: large
