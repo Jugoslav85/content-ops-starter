@@ -23,7 +23,7 @@ sections:
         type: Button
       - label: Travel Posters
         altText: ''
-        url: /
+        url: 'https://brightonposters.com/collections/travel-posters'
         showIcon: true
         icon: arrowRight
         iconPosition: right
