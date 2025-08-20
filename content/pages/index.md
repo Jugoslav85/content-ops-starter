@@ -356,7 +356,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: Contact Form
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
