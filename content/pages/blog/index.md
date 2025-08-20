@@ -14,7 +14,7 @@ topSections:
       - content/pages/blog/travel-posters.md
       - content/pages/blog/planning-your-disneyland-trip.md
       - content/pages/blog/rural-tourism-italy-rural-experiences.md
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: true
     showDate: false
     showAuthor: true
