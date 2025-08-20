@@ -31,8 +31,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/Travel Gallery-min.png
+      altText: Travel Gallery
       elementId: ''
       type: ImageBlock
     badge:
@@ -105,26 +105,6 @@ sections:
       Join Wanderlust Chronicles as we explore hidden gems, vibrant cultures,
       and breathtaking destinations. Discover travel tips, inspiring stories,
       and unforgettable adventures to fuel your next journey.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: Adventures Across the Globe
       color: text-primary
@@ -163,11 +143,11 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/Travel Gallery-min.png
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Our services
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -376,15 +356,14 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: Contact Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Reach out to us
+    text: >
+      We’d love to hear from you! Whether you have questions, travel tips,
+      collaboration ideas, or just want to share your latest adventure, our
+      inbox is always open.
     media:
       fields:
         - name: name
