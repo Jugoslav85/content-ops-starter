@@ -360,11 +360,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Reach out to us
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      We’d love to hear from you! Whether you have questions, travel tips,
+      collaboration ideas, or just want to share your latest adventure, our
+      inbox is always open.
     media:
       fields:
         - name: name
