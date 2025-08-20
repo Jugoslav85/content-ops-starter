@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/Valparaiso Artwork.webp
+  url: /images/Be real_02_Mockup 1.psd_3.jpg
   altText: Case study 1
   styles:
     self:
