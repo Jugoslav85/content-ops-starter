@@ -33,7 +33,19 @@
         {
             "label": "ABOUT US",
             "altText": "",
-            "links": [],
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Buy now",
+                    "altText": "Buy now",
+                    "url": "https://brightonposters.com",
+                    "showIcon": true,
+                    "icon": "shoppingBag",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
