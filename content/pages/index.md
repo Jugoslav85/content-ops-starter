@@ -143,7 +143,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/20687354.png
+      url: /images/Travel Gallery-min.png
       altText: Dope design preview
       type: ImageBlock
     badge:
