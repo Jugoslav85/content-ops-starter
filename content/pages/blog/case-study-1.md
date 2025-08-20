@@ -3,10 +3,11 @@ title: Top 10 UK Websites to Buy Travel Posters
 slug: case-study-1
 date: '2025-08-20'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Whether you’re looking for classic vintage designs, unique modern
+  interpretations, or high-quality reproductions, these UK websites make it easy
+  to find travel posters that suit your style. From premium printing to framing
+  options and curated selections, each site offers something unique to help you
+  bring the world into your home.
 featuredImage:
   url: /images/Be real_02_Mockup 1.psd_3.jpg
   altText: Travel Posters
