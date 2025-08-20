@@ -3,9 +3,10 @@ title: Exploring the World Through Travel Art
 slug: top-ten-lessons-we-learned
 date: '2025-08-19'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Travel art celebrates exploration and imagination. It reminds us of the beauty
+  and diversity of the world and encourages us to see everyday spaces through
+  the lens of creativity. Whether you collect prints, original paintings, or
+  unique handmade pieces, travel art transforms walls into windows to the world.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
