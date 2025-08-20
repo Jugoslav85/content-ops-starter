@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Top 10 UK Websites to Buy Travel Posters
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
