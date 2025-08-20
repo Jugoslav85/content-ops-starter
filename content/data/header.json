@@ -37,7 +37,7 @@
                 {
                     "type": "Link",
                     "label": "Brighton Posters",
-                    "altText": "Buy now",
+                    "altText": "Brighton Posters",
                     "url": "https://brightonposters.com",
                     "showIcon": true,
                     "icon": "shoppingBag",
