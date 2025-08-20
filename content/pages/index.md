@@ -32,7 +32,7 @@ sections:
         type: Link
     media:
       url: /images/Travel Gallery-min.png
-      altText: Unblock your team boost your time to production preview
+      altText: Travel Gallery
       elementId: ''
       type: ImageBlock
     badge:
