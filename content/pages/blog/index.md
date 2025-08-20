@@ -55,4 +55,11 @@ postFeed:
   variant: two-col-grid
   colors: bg-light-fg-dark
   hoverEffect: move-up
+  backgroundImage:
+    type: BackgroundImage
+    altText: altText of the image
+    backgroundSize: auto
+    backgroundPosition: center
+    backgroundRepeat: no-repeat
+    opacity: 100
 ---
