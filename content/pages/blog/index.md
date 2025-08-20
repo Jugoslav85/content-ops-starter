@@ -8,7 +8,7 @@ topSections:
       text: Most Visited Blog Posts
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Wanderlust Travel Articles
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
       - content/pages/blog/travel-posters.md
