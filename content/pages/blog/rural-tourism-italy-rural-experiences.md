@@ -4,8 +4,9 @@ title: Embracing the Charm of Rural Tourism in Italy
 date: '2025-08-19'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Rural tourism in Italy is not just about discovering hidden corners of the
+  country—it’s about embracing a lifestyle rooted in authenticity, tradition,
+  and natural beauty.
 featuredImage:
   type: ImageBlock
   url: /images/gabriella-clare-marino-sfjvb-tmhak-unsplash.jpg
