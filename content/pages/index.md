@@ -416,7 +416,7 @@ sections:
 seo:
   metaTitle: Wanderlust Chronicles
   metaDescription: 'Inspiring journeys, unforgettable stories.'
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Travel Gallery-min.png
   type: Seo
 type: PageLayout
 ---
