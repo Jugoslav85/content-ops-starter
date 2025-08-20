@@ -42,7 +42,7 @@
             {
                 "label": "Trace Me Up",
                 "altText": "tracemeup",
-                "url": "/careers",
+                "url": "https://www.tracemeup.com",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
