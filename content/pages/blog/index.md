@@ -16,7 +16,7 @@ topSections:
       - content/pages/blog/rural-tourism-italy-rural-experiences.md
     showThumbnail: true
     showExcerpt: true
-    showDate: true
+    showDate: false
     showAuthor: true
     variant: big-list
     colors: bg-light-fg-dark
