@@ -18,7 +18,7 @@ topSections:
     showExcerpt: true
     showDate: false
     showAuthor: true
-    variant: two-col-grid
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
