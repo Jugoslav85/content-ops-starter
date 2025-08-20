@@ -101,11 +101,10 @@ sections:
     subtitle: >-
       Exploring Hidden Corners, Local Cultures, and Unforgettable Journeys
       Around the World
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Join Wanderlust Chronicles as we explore hidden gems, vibrant cultures,
+      and breathtaking destinations. Discover travel tips, inspiring stories,
+      and unforgettable adventures to fuel your next journey.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
