@@ -1,7 +1,7 @@
 ---
 title: Top 10 UK Websites to Buy Travel Posters
 slug: case-study-1
-date: '2025-08-05'
+date: '2025-08-20'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
