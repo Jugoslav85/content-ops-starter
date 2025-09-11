@@ -9,7 +9,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/travelsafe-homepage-banner.jpg
-  altText: Thumbnail
+  altText: Travel Safely
   elementId: ''
   styles:
     self:
