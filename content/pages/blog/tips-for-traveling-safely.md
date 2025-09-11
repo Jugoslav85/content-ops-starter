@@ -66,7 +66,7 @@ styles:
 ---
 Travel opens doors to new cultures, flavors, and experiences—but it also comes with its share of risks. Whether you’re exploring a busy city, trekking in nature, or relaxing at a beach resort, safety should always be part of your plan. Here are essential, **useful strategies** to help you travel smart and stay safe.
 
-<div style="text-align: center">![](https://www.travelsafe-abroad.com/wp-content/uploads/travelsafe-homepage-banner.jpg)</div>
+<div style="text-align: center">![](/images/travelsafe-homepage-banner.jpg)</div>
 
 ## 1. Before You Go: Preparation Is Protection
 
@@ -76,8 +76,6 @@ Travel opens doors to new cultures, flavors, and experiences—but it also comes
 
 *   **Insurance matters**: Travel insurance can save you from massive expenses if you face medical issues, theft, or trip cancellations.
 
-
-
 ## 2. Protecting Your Belongings
 
 *   **Travel light**: The fewer valuables you bring, the less you have to worry about.
@@ -85,8 +83,6 @@ Travel opens doors to new cultures, flavors, and experiences—but it also comes
 *   **Use anti-theft gear**: A crossbody bag with lockable zippers or a money belt can deter pickpockets.
 
 *   **Secure your room**: Always use hotel safes when available, and consider carrying a portable door lock for added security.
-
-
 
 ## 3. Staying Alert on the Move
 
@@ -96,8 +92,6 @@ Travel opens doors to new cultures, flavors, and experiences—but it also comes
 
 *   **Trust your instincts**: If a situation feels unsafe—an empty alley, an aggressive stranger, or an overpriced taxi—remove yourself quickly.
 
-
-
 ## 4. Health and Personal Safety
 
 *   **Stay hydrated and rested**: Fatigue and dehydration make you more vulnerable to illness and mistakes.
@@ -105,8 +99,6 @@ Travel opens doors to new cultures, flavors, and experiences—but it also comes
 *   **Food and water precautions**: In places with questionable tap water, stick to bottled water and avoid raw street food unless it looks freshly cooked.
 
 *   **First aid kit**: Carry basics like bandages, antiseptic wipes, and any personal medications.
-
-
 
 ## 5. Technology and Safety
 
@@ -116,8 +108,6 @@ Travel opens doors to new cultures, flavors, and experiences—but it also comes
 
 *   **Avoid oversharing**: Posting real-time location updates on social media can make you an easy target. Post later instead.
 
-
-
 ## 6. Transport and Navigation
 
 *   **Use trusted rides**: Stick to registered taxis, ride-hailing apps, or official public transport. Avoid accepting rides from strangers.
@@ -125,8 +115,6 @@ Travel opens doors to new cultures, flavors, and experiences—but it also comes
 *   **Know local traffic habits**: In some countries, crossing the street can be more dangerous than the wildlife. Watch how locals do it before stepping out.
 
 *   **Keep a “go bag”**: A small daypack with essentials (water, snacks, cash, charger, copy of passport) helps in unexpected delays.
-
-
 
 ## 7. Emergency Readiness
 
